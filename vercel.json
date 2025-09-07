@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "buildCommand": "npm run vercel-build",
+  "buildCommand": "cd frontend && npm run build",
   "outputDirectory": "frontend/build",
-  "framework": "vite",
+  "installCommand": "npm install",
   "builds": [
     {
       "src": "backend-mvp/src/**/*.ts",
