@@ -1,0 +1,105 @@
+{
+  "category": "Non-Banking Financial Companies (NBFC)",
+  "last_updated": "2025-08-28",
+  "source": "https://rbi.org.in/scripts/bs_viewmasterdirections.aspx",
+  "master_directions": [
+    {
+      "date": "2022-03-14",
+      "title": "Master Direction – Reserve Bank of India (Regulatory Framework for Microfinance Loans) Directions, 2022",
+      "size": "503 kb",
+      "updated": "2025-07-17",
+      "key_provisions": [
+        "Definition and scope of microfinance loans",
+        "Interest rate caps and pricing guidelines",
+        "Borrower assessment and income verification",
+        "Multiple lending restrictions and over-indebtedness prevention",
+        "Recovery practices and customer protection"
+      ],
+      "compliance_requirements": [
+        "Annual percentage rate (APR) disclosure",
+        "Household income assessment",
+        "Cooling-off period for borrowers",
+        "Fair recovery practices",
+        "Grievance redressal mechanism"
+      ],
+      "violation_keywords": [
+        "excessive interest rates",
+        "multiple lending without assessment",
+        "coercive recovery practices",
+        "non-disclosure of charges",
+        "over-indebtedness"
+      ]
+    },
+    {
+      "date": "2021-09-24",
+      "title": "Master Direction – Reserve Bank of India (Securitisation of Standard Assets) Directions, 2021",
+      "size": "740 kb",
+      "updated": "2022-12-05",
+      "key_provisions": [
+        "Securitisation guidelines for NBFCs",
+        "Risk retention requirements",
+        "Credit enhancement mechanisms",
+        "Servicing and collection procedures",
+        "Reporting and disclosure norms"
+      ]
+    },
+    {
+      "date": "2021-09-24",
+      "title": "Master Direction – Reserve Bank of India (Transfer of Loan Exposures) Directions, 2021",
+      "size": "855 kb",
+      "updated": "2023-12-28",
+      "key_provisions": [
+        "Guidelines for loan transfer mechanisms",
+        "Due diligence requirements for transferees",
+        "Customer consent and notification procedures",
+        "Risk management and prudential norms",
+        "Regulatory reporting requirements"
+      ]
+    },
+    {
+      "date": "2020-09-04",
+      "title": "Master Directions – Priority Sector Lending (PSL) – Targets and Classification",
+      "size": "1559 kb",
+      "superseded_by": "Master Directions - Reserve Bank of India (Priority Sector Lending – Targets and Classification) Directions, 2025",
+      "key_provisions": [
+        "Priority sector lending targets for NBFCs",
+        "Classification of priority sector advances",
+        "Sub-targets for various categories",
+        "Monitoring and reporting mechanisms"
+      ]
+    }
+  ],
+  "digital_lending_specific": [
+    {
+      "rule_category": "Digital Lending Service Providers (DLSPs)",
+      "key_requirements": [
+        "Authorization from RBI for digital lending activities",
+        "Compliance with Digital Lending Guidelines",
+        "Customer data protection and privacy measures",
+        "Fair lending practices and transparent pricing",
+        "Robust grievance redressal mechanisms"
+      ],
+      "prohibited_practices": [
+        "Excessive interest rates beyond regulatory caps",
+        "Misleading advertisements and promotional content",
+        "Coercive recovery practices",
+        "Unauthorized data sharing with third parties",
+        "Hidden charges and fees"
+      ]
+    }
+  ],
+  "regulatory_framework": {
+    "registration_requirements": {
+      "minimum_capital": "₹2 crore for new NBFCs",
+      "net_owned_funds": "Minimum ₹2 crore",
+      "prudential_norms": "Capital adequacy ratio of 15%",
+      "governance": "Board composition and fit & proper criteria"
+    },
+    "operational_guidelines": {
+      "asset_classification": "90-day NPA norm",
+      "provisioning": "Risk-based provisioning requirements",
+      "exposure_limits": "Single borrower and group exposure limits",
+      "reporting": "Monthly, quarterly, and annual returns"
+    }
+  }
+}

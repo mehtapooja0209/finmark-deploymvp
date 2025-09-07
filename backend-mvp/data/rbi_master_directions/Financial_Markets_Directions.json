@@ -1,0 +1,166 @@
+{
+  "category": "Financial Markets",
+  "last_updated": "2025-08-28",
+  "source": "https://rbi.org.in/scripts/bs_viewmasterdirections.aspx",
+  "master_directions": [
+    {
+      "date": "2025-06-16",
+      "title": "Master Direction – Reserve Bank of India (Electronic Trading Platforms) Directions, 2025",
+      "size": "422 kb",
+      "key_provisions": [
+        "Authorization requirements for electronic trading platforms",
+        "Operational guidelines and risk management",
+        "Technology infrastructure standards",
+        "Market surveillance and monitoring",
+        "Business continuity and disaster recovery"
+      ],
+      "compliance_requirements": [
+        "RBI authorization before commencing operations",
+        "Robust risk management systems",
+        "Real-time monitoring and surveillance",
+        "Adequate capital and financial resources",
+        "Regular reporting to RBI"
+      ]
+    },
+    {
+      "date": "2025-02-07",
+      "title": "Master Direction - Reserve Bank of India (Access Criteria for NDS-OM) Directions, 2025",
+      "size": "320 kb",
+      "key_provisions": [
+        "Eligibility criteria for NDS-OM access",
+        "Operational procedures and guidelines",
+        "Risk management requirements",
+        "Reporting and compliance obligations",
+        "Penalty framework for violations"
+      ]
+    },
+    {
+      "date": "2025-01-07",
+      "title": "Master Direction - Reserve Bank of India (Non-resident Investment in Debt Instruments) Directions, 2025",
+      "size": "607 kb",
+      "updated": "2025-08-12",
+      "key_provisions": [
+        "Investment limits for non-resident investors",
+        "Eligibility criteria and registration process",
+        "Permitted debt instruments and categories",
+        "Operational guidelines for investments",
+        "Monitoring and reporting requirements"
+      ]
+    },
+    {
+      "date": "2024-05-08",
+      "title": "Master Direction – Reserve Bank of India (Margining for Non-Centrally Cleared OTC Derivatives) Directions, 2024",
+      "size": "574 kb",
+      "updated": "2025-02-21",
+      "key_provisions": [
+        "Margining requirements for OTC derivatives",
+        "Collateral eligibility and valuation",
+        "Risk management and monitoring",
+        "Reporting and compliance obligations",
+        "Implementation timeline and phases"
+      ],
+      "compliance_requirements": [
+        "Initial and variation margin calculations",
+        "Collateral management procedures",
+        "Daily mark-to-market valuations",
+        "Dispute resolution mechanisms",
+        "Regular reporting to RBI"
+      ]
+    },
+    {
+      "date": "2024-01-03",
+      "title": "Master Direction – Reserve Bank of India (Commercial Paper and Non-Convertible Debentures) Directions, 2024",
+      "size": "362 kb",
+      "key_provisions": [
+        "Issuance guidelines for commercial paper",
+        "Non-convertible debenture regulations",
+        "Maturity and rating requirements",
+        "Disclosure and reporting norms",
+        "Trading and settlement procedures"
+      ]
+    },
+    {
+      "date": "2022-12-12",
+      "title": "Master Direction – Foreign Exchange Management (Hedging of Commodity Price Risk and Freight Risk) Directions, 2022",
+      "size": "353 kb",
+      "updated": "2024-04-15",
+      "key_provisions": [
+        "Hedging instruments for commodity price risk",
+        "Freight risk management guidelines",
+        "Documentation and compliance requirements",
+        "Reporting obligations to RBI",
+        "Authorized dealers' responsibilities"
+      ]
+    }
+  ],
+  "electronic_trading_platforms": {
+    "authorization_criteria": {
+      "minimum_networth": "₹100 crore for new platforms",
+      "technology_infrastructure": "Robust and scalable trading systems",
+      "risk_management": "Comprehensive risk management framework",
+      "governance": "Strong corporate governance structure",
+      "experience": "Relevant experience in financial markets"
+    },
+    "operational_requirements": {
+      "trading_systems": [
+        "High-frequency trading capabilities",
+        "Real-time risk monitoring",
+        "Order management systems",
+        "Market data dissemination",
+        "Business continuity planning"
+      ],
+      "surveillance": [
+        "Market manipulation detection",
+        "Unusual trading pattern monitoring",
+        "Price discovery mechanisms",
+        "Transaction reporting systems",
+        "Audit trail maintenance"
+      ]
+    }
+  },
+  "derivatives_market": {
+    "otc_derivatives": {
+      "margining_requirements": [
+        "Initial margin for new trades",
+        "Variation margin for existing positions",
+        "Minimum transfer amount thresholds",
+        "Collateral eligibility criteria",
+        "Dispute resolution timelines"
+      ],
+      "risk_management": [
+        "Credit risk assessment",
+        "Counterparty exposure limits",
+        "Stress testing requirements",
+        "Backtesting procedures",
+        "Model validation processes"
+      ]
+    },
+    "reporting_obligations": [
+      "Trade repository reporting",
+      "Regulatory reporting to RBI",
+      "Position reporting for large exposures",
+      "Risk metrics reporting",
+      "Incident reporting for operational failures"
+    ]
+  },
+  "debt_instruments": {
+    "commercial_paper": {
+      "issuance_criteria": [
+        "Minimum credit rating requirements",
+        "Maturity period restrictions (7 days to 1 year)",
+        "Denomination and trading lot sizes",
+        "Disclosure requirements",
+        "Trustee arrangements for public issues"
+      ]
+    },
+    "non_convertible_debentures": {
+      "regulatory_framework": [
+        "Maturity up to one year from issue date",
+        "Credit rating by approved agencies",
+        "Listing on recognized stock exchanges",
+        "Disclosure of financials and risk factors",
+        "Trustee appointment for investor protection"
+      ]
+    }
+  }
+}

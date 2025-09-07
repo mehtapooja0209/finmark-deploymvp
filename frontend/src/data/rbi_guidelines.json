@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "source": "https://rbi.org.in/scripts/bs_viewmasterdirections.aspx",
+    "last_updated": "2025-08-28T20:00:00Z",
+    "version": "2.0.0",
+    "total_master_directions": 85,
+    "coverage_areas": ["Commercial Banking", "Non-Banking", "Payment Systems", "Digital Lending", "Financial Markets", "Consumer Protection"]
+  },
+  "rbi_guidelines": {
+    "digital_lending": [
+      {
+        "rule_id": "DL_001",
+        "category": "mandatory_disclosure",
+        "title": "Digital Lending Platform Disclosure Requirements",
+        "description": "All digital lending platforms must display comprehensive fee structure and terms clearly",
+        "content": "Digital lending platforms shall ensure that all fees, charges, interest rates, and other terms are disclosed prominently and transparently to borrowers before loan disbursement.",
+        "violation_keywords": [
+          "guaranteed returns",
+          "risk-free investment",
+          "assured profit",
+          "no risk",
+          "100% guaranteed"
+        ],
+        "required_elements": [
+          "annual percentage rate (APR)",
+          "processing fee",
+          "penalty charges",
+          "prepayment charges",
+          "loan tenure",
+          "repayment schedule"
+        ],
+        "severity": "critical",
+        "effective_date": "2022-09-02",
+        "penalties": [
+          "Monetary penalty up to ₹1 crore",
+          "Suspension of digital lending license",
+          "Prohibition from new customer acquisition"
+        ],
+        "references": [
+          "RBI Circular No. DOR.STR.REC.51/21.04.048/2021-22",
+          "Digital Lending Guidelines September 2022"
+        ]
+      },
+      {
+        "rule_id": "DL_002",
+        "category": "data_privacy",
+        "title": "Customer Data Protection in Digital Lending",
+        "description": "Strict data privacy and protection requirements for customer information",
+        "content": "Digital lending platforms must implement robust data protection measures and obtain explicit consent for data collection, processing, and sharing.",
+        "violation_keywords": [
+          "data sharing with third parties",
+          "selling customer information",
+          "unlimited data access",
+          "permanent data storage"
+        ],
+        "required_elements": [
+          "data consent mechanisms",
+          "data retention policies",
+          "data security measures",
+          "customer data rights"
+        ],
+        "severity": "critical",
+        "effective_date": "2022-09-02"
+      }
+    ],
+    "commercial_banking": [
+      {
+        "rule_id": "CB_001",
+        "category": "credit_facilities",
+        "title": "Non-Fund Based Credit Facilities",
+        "description": "Guidelines for non-fund based credit facilities",
+        "content": "Reserve Bank of India (Non-Fund Based Credit Facilities) Directions, 2025, effective from April 01, 2026",
+        "violation_keywords": [
+          "unauthorized guarantees",
+          "excessive exposure",
+          "inadequate documentation"
+        ],
+        "required_elements": [
+          "proper documentation",
+          "exposure limits",
+          "risk assessment",
+          "regulatory compliance"
+        ],
+        "severity": "high",
+        "effective_date": "2025-08-06",
+        "references": [
+          "Reserve Bank of India (Non-Fund Based Credit Facilities) Directions, 2025"
+        ]
+      },
+      {
+        "rule_id": "CB_002",
+        "category": "co_lending",
+        "title": "Co-Lending Arrangements",
+        "description": "Guidelines for co-lending arrangements between banks and NBFCs",
+        "content": "Reserve Bank of India (Co-Lending Arrangements) Directions, 2025",
+        "violation_keywords": [
+          "improper risk sharing",
+          "inadequate due diligence",
+          "non-compliant arrangements"
+        ],
+        "required_elements": [
+          "proper agreements",
+          "risk sharing mechanisms",
+          "due diligence procedures",
+          "regulatory reporting"
+        ],
+        "severity": "high",
+        "effective_date": "2025-08-06"
+      },
+      {
+        "rule_id": "CB_003",
+        "category": "capital_adequacy",
+        "title": "Capital Adequacy for Regional Rural Banks",
+        "description": "Prudential norms on capital adequacy for Regional Rural Banks",
+        "content": "Master Direction – Reserve Bank of India (Prudential Norms on Capital Adequacy for Regional Rural Banks) Directions, 2025",
+        "violation_keywords": [
+          "insufficient capital",
+          "below minimum requirements",
+          "inadequate reserves"
+        ],
+        "required_elements": [
+          "minimum capital ratio",
+          "risk-weighted assets calculation",
+          "capital planning",
+          "stress testing"
+        ],
+        "severity": "critical",
+        "effective_date": "2025-03-25"
+      },
+      {
+        "rule_id": "CB_004",
+        "category": "credit_information",
+        "title": "Credit Information Reporting",
+        "description": "Guidelines for credit information reporting",
+        "content": "Master Direction – Reserve Bank of India (Credit Information Reporting) Directions, 2025",
+        "violation_keywords": [
+          "inaccurate reporting",
+          "delayed submissions",
+          "non-compliance with formats"
+        ],
+        "required_elements": [
+          "accurate data reporting",
+          "timely submissions",
+          "data quality checks",
+          "borrower consent"
+        ],
+        "severity": "high",
+        "effective_date": "2025-01-06"
+      }
+    ],
+    "payment_systems": [
+      {
+        "rule_id": "PS_001",
+        "category": "payment_aggregator",
+        "title": "Payment Aggregator Authorization",
+        "description": "All payment aggregators must obtain proper authorization from RBI",
+        "content": "Entities acting as payment aggregators must obtain authorization from RBI and comply with all operational guidelines.",
+        "violation_keywords": [
+          "unlicensed payment services",
+          "unauthorized payment processing",
+          "unregulated payment gateway"
+        ],
+        "required_elements": [
+          "RBI authorization certificate",
+          "compliance documentation",
+          "audit reports",
+          "grievance redressal"
+        ],
+        "severity": "critical",
+        "effective_date": "2020-03-17"
+      },
+      {
+        "rule_id": "PS_002",
+        "category": "digital_payment_security",
+        "title": "Digital Payment Security Controls",
+        "description": "Security controls for digital payment systems",
+        "content": "Master Direction on Digital Payment Security Controls",
+        "violation_keywords": [
+          "weak authentication",
+          "insecure transactions",
+          "inadequate fraud monitoring"
+        ],
+        "required_elements": [
+          "multi-factor authentication",
+          "encryption standards",
+          "fraud monitoring systems",
+          "incident response procedures"
+        ],
+        "severity": "critical",
+        "effective_date": "2021-02-18"
+      }
+    ],
+    "nbfc": [
+      {
+        "rule_id": "NBFC_001",
+        "category": "registration",
+        "title": "NBFC Registration Requirements",
+        "description": "All NBFCs must be registered with RBI and comply with regulatory requirements",
+        "content": "Non-Banking Financial Companies must obtain registration from RBI and maintain minimum capital requirements.",
+        "violation_keywords": [
+          "unregistered financial services",
+          "unlicensed lending",
+          "unauthorized financial business"
+        ],
+        "required_elements": [
+          "RBI registration certificate",
+          "minimum capital compliance",
+          "regulatory returns filing",
+          "audit compliance"
+        ],
+        "severity": "critical",
+        "effective_date": "1997-01-01"
+      },
+      {
+        "rule_id": "NBFC_002",
+        "category": "microfinance",
+        "title": "Regulatory Framework for Microfinance Loans",
+        "description": "Guidelines for microfinance lending operations",
+        "content": "Master Direction – Reserve Bank of India (Regulatory Framework for Microfinance Loans) Directions, 2022 (Updated as on July 17, 2025)",
+        "violation_keywords": [
+          "excessive interest rates",
+          "multiple lending",
+          "coercive recovery"
+        ],
+        "required_elements": [
+          "interest rate caps",
+          "borrower assessment",
+          "responsible lending practices",
+          "grievance redressal"
+        ],
+        "severity": "high",
+        "effective_date": "2022-03-14"
+      }
+    ],
+    "financial_markets": [
+      {
+        "rule_id": "FM_001",
+        "category": "electronic_trading",
+        "title": "Electronic Trading Platforms",
+        "description": "Guidelines for electronic trading platforms",
+        "content": "Master Direction – Reserve Bank of India (Electronic Trading Platforms) Directions, 2025",
+        "violation_keywords": [
+          "unauthorized trading",
+          "inadequate risk controls",
+          "non-compliant platforms"
+        ],
+        "required_elements": [
+          "platform authorization",
+          "risk management systems",
+          "audit trails",
+          "business continuity plans"
+        ],
+        "severity": "high",
+        "effective_date": "2025-06-16"
+      },
+      {
+        "rule_id": "FM_002",
+        "category": "derivatives",
+        "title": "Margining for Non-Centrally Cleared OTC Derivatives",
+        "description": "Margining requirements for OTC derivatives",
+        "content": "Master Direction – Reserve Bank of India (Margining for Non-Centrally Cleared OTC Derivatives) Directions, 2024",
+        "violation_keywords": [
+          "inadequate margins",
+          "non-compliance with margining",
+          "excessive risk exposure"
+        ],
+        "required_elements": [
+          "margin calculations",
+          "collateral management",
+          "risk monitoring",
+          "reporting requirements"
+        ],
+        "severity": "high",
+        "effective_date": "2024-05-08"
+      }
+    ],
+    "consumer_protection": [
+      {
+        "rule_id": "CP_001",
+        "category": "internal_ombudsman",
+        "title": "Internal Ombudsman for Regulated Entities",
+        "description": "Requirements for internal ombudsman mechanism",
+        "content": "Master Direction - Reserve Bank of India (Internal Ombudsman for Regulated Entities) Directions, 2023",
+        "violation_keywords": [
+          "no grievance mechanism",
+          "delayed complaint resolution",
+          "inadequate customer service"
+        ],
+        "required_elements": [
+          "ombudsman appointment",
+          "complaint handling procedures",
+          "resolution timelines",
+          "reporting mechanisms"
+        ],
+        "severity": "high",
+        "effective_date": "2023-12-29"
+      },
+      {
+        "rule_id": "CP_002",
+        "category": "kyc_compliance",
+        "title": "Know Your Customer (KYC) Requirements",
+        "description": "KYC guidelines for customer verification",
+        "content": "Master Direction - Know Your Customer (KYC) Direction, 2016 (Updated as on August 14, 2025)",
+        "violation_keywords": [
+          "inadequate verification",
+          "non-compliance with KYC",
+          "suspicious transactions"
+        ],
+        "required_elements": [
+          "customer identification",
+          "document verification",
+          "ongoing monitoring",
+          "suspicious transaction reporting"
+        ],
+        "severity": "critical",
+        "effective_date": "2019-05-29"
+      }
+    ],
+    "fraud_risk_management": [
+      {
+        "rule_id": "FRM_001",
+        "category": "commercial_banks",
+        "title": "Fraud Risk Management in Commercial Banks",
+        "description": "Guidelines for fraud risk management in commercial banks",
+        "content": "Master Directions on Fraud Risk Management in Commercial Banks (including Regional Rural Banks) and All India Financial Institutions",
+        "violation_keywords": [
+          "inadequate fraud controls",
+          "delayed fraud reporting",
+          "weak monitoring systems"
+        ],
+        "required_elements": [
+          "fraud prevention systems",
+          "early warning indicators",
+          "reporting mechanisms",
+          "staff training programs"
+        ],
+        "severity": "critical",
+        "effective_date": "2024-07-15"
+      },
+      {
+        "rule_id": "FRM_002",
+        "category": "cooperative_banks",
+        "title": "Fraud Risk Management in Cooperative Banks",
+        "description": "Guidelines for fraud risk management in cooperative banks",
+        "content": "Master Directions on Fraud Risk Management in Urban Cooperative Banks (UCBs) / State Cooperative Banks (StCBs) / Central Cooperative Banks (CCBs)",
+        "violation_keywords": [
+          "inadequate fraud controls",
+          "delayed fraud reporting",
+          "weak governance"
+        ],
+        "required_elements": [
+          "fraud prevention framework",
+          "governance structures",
+          "monitoring systems",
+          "regular audits"
+        ],
+        "severity": "critical",
+        "effective_date": "2024-07-15"
+      }
+    ]
+  },
+  "compliance_categories": {
+    "mandatory_disclosure": {
+      "weight": 25,
+      "description": "Requirements for transparent disclosure of terms, fees, and conditions"
+    },
+    "data_privacy": {
+      "weight": 20,
+      "description": "Protection of customer data and privacy rights"
+    },
+    "credit_facilities": {
+      "weight": 15,
+      "description": "Guidelines for various credit facilities and lending operations"
+    },
+    "fraud_risk_management": {
+      "weight": 15,
+      "description": "Risk management and fraud prevention measures"
+    },
+    "capital_adequacy": {
+      "weight": 10,
+      "description": "Maintaining adequate capital reserves and regulatory compliance"
+    },
+    "consumer_protection": {
+      "weight": 10,
+      "description": "Protecting customer interests and rights"
+    },
+    "payment_systems": {
+      "weight": 5,
+      "description": "Payment system operations and security"
+    }
+  },
+  "severity_scoring": {
+    "critical": 40,
+    "high": 30,
+    "medium": 20,
+    "low": 10
+  },
+  "ai_prompt_templates": {
+    "compliance_analysis": "Analyze the following document for compliance with RBI guidelines. Document content: {content}. Guidelines to check: {guidelines}. Return a structured JSON response with violations, compliance score, and recommendations.",
+    "violation_detection": "Identify specific violations in this text: {text}. Check against these RBI rules: {rules}. Provide exact locations, severity, and suggestions for each violation found.",
+    "recommendation_generation": "For the detected violation: {violation}, provide specific, actionable recommendations to achieve compliance while maintaining the document's intent and tone."
+  }
+}

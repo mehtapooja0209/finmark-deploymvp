@@ -1,0 +1,154 @@
+{
+  "category": "Commercial Banking",
+  "last_updated": "2025-08-28",
+  "source": "https://rbi.org.in/scripts/bs_viewmasterdirections.aspx",
+  "master_directions": [
+    {
+      "date": "2025-08-06",
+      "title": "Reserve Bank of India (Non-Fund Based Credit Facilities) Directions, 2025",
+      "size": "424 kb",
+      "effective_date": "2026-04-01",
+      "key_provisions": [
+        "Consolidates and harmonizes guidelines for non-fund based credit facilities",
+        "Defines exposure limits and risk assessment requirements",
+        "Establishes documentation and compliance standards",
+        "Sets operational guidelines for guarantees and letters of credit"
+      ],
+      "compliance_requirements": [
+        "Proper documentation of all facilities",
+        "Regular risk assessment and monitoring",
+        "Adherence to exposure limits",
+        "Quarterly reporting to RBI"
+      ]
+    },
+    {
+      "date": "2025-08-06",
+      "title": "Reserve Bank of India (Co-Lending Arrangements) Directions, 2025",
+      "size": "260 kb",
+      "key_provisions": [
+        "Guidelines for partnerships between banks and NBFCs",
+        "Risk sharing mechanisms and responsibilities",
+        "Due diligence requirements for co-lending partners",
+        "Customer protection and grievance redressal"
+      ],
+      "compliance_requirements": [
+        "Written agreements between co-lending partners",
+        "Clear definition of roles and responsibilities",
+        "Joint liability and risk sharing arrangements",
+        "Regular monitoring and reporting"
+      ]
+    },
+    {
+      "date": "2025-07-29",
+      "title": "Reserve Bank of India (Investment in AIF) Directions, 2025",
+      "size": "156 kb",
+      "key_provisions": [
+        "Investment guidelines for Alternative Investment Funds",
+        "Prudential limits and risk management",
+        "Due diligence and governance requirements",
+        "Reporting and disclosure norms"
+      ]
+    },
+    {
+      "date": "2025-04-01",
+      "title": "Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2025",
+      "size": "202 kb",
+      "key_provisions": [
+        "Guidelines for setting deposit interest rates",
+        "Transparency requirements for rate structures",
+        "Customer communication obligations",
+        "Risk-based pricing frameworks"
+      ]
+    },
+    {
+      "date": "2025-03-25",
+      "title": "Master Direction – Reserve Bank of India (Prudential Norms on Capital Adequacy for Regional Rural Banks) Directions, 2025",
+      "size": "521 kb",
+      "key_provisions": [
+        "Capital adequacy ratio requirements for RRBs",
+        "Risk-weighted asset calculations",
+        "Capital planning and stress testing",
+        "Regulatory intervention mechanisms"
+      ]
+    },
+    {
+      "date": "2025-01-06",
+      "title": "Master Direction – Reserve Bank of India (Credit Information Reporting) Directions, 2025",
+      "size": "1203 kb",
+      "key_provisions": [
+        "Credit information reporting requirements",
+        "Data accuracy and quality standards",
+        "Borrower consent mechanisms",
+        "Dispute resolution procedures"
+      ]
+    },
+    {
+      "date": "2024-07-30",
+      "title": "Master Direction on Treatment of Wilful Defaulters and Large Defaulters",
+      "size": "1035 kb",
+      "key_provisions": [
+        "Definition and identification of wilful defaulters",
+        "Restrictions on credit facilities to defaulters",
+        "Legal proceedings and recovery mechanisms",
+        "Reporting and disclosure requirements"
+      ]
+    },
+    {
+      "date": "2024-07-15",
+      "title": "Master Directions on Fraud Risk Management in Commercial Banks",
+      "size": "445 kb",
+      "key_provisions": [
+        "Fraud prevention and detection systems",
+        "Early warning indicators and monitoring",
+        "Reporting mechanisms and timelines",
+        "Staff training and awareness programs"
+      ]
+    },
+    {
+      "date": "2023-11-07",
+      "title": "Master Direction on Information Technology Governance, Risk, Controls and Assurance Practices",
+      "size": "425 kb",
+      "key_provisions": [
+        "IT governance framework requirements",
+        "Cybersecurity and data protection measures",
+        "Business continuity and disaster recovery",
+        "Outsourcing and vendor management"
+      ]
+    },
+    {
+      "date": "2022-04-21",
+      "title": "Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022",
+      "size": "906 kb",
+      "updated": "2024-03-07",
+      "key_provisions": [
+        "Card issuance standards and procedures",
+        "Customer protection and grievance redressal",
+        "Interest rates and fee structures",
+        "Security and fraud prevention measures"
+      ]
+    },
+    {
+      "date": "2021-02-18",
+      "title": "Master Direction on Digital Payment Security Controls",
+      "size": "261 kb",
+      "key_provisions": [
+        "Security standards for digital payments",
+        "Multi-factor authentication requirements",
+        "Fraud monitoring and prevention",
+        "Incident response and reporting"
+      ]
+    },
+    {
+      "date": "2019-05-29",
+      "title": "Master Direction - Know Your Customer (KYC) Direction, 2016",
+      "size": "885 kb",
+      "updated": "2025-08-14",
+      "key_provisions": [
+        "Customer identification and verification procedures",
+        "Risk-based approach to KYC",
+        "Ongoing monitoring and due diligence",
+        "Suspicious transaction reporting"
+      ]
+    }
+  ]
+}

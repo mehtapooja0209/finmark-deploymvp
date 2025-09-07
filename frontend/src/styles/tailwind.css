@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Core Colors - Professional Dark Navy & Gold Theme */
+    --color-background: #0A192F; /* Dark navy blue */
+    --color-foreground: #E2E8F0; /* Light text for contrast */
+    --color-border: #1E3A5F; /* Slightly lighter navy for borders */
+    --color-input: #1A2B42; /* Dark navy input background */
+    --color-ring: #D4AF37; /* Metallic gold */
+    
+    /* Card Colors */
+    --color-card: #132337; /* Slightly lighter navy for cards */
+    --color-card-foreground: #F1F5F9; /* Light foreground for cards */
+    
+    /* Popover Colors */
+    --color-popover: #132337; /* Dark navy popover */
+    --color-popover-foreground: #F1F5F9; /* Light popover text */
+    
+    /* Muted Colors */
+    --color-muted: #1A2B42; /* Muted navy background */
+    --color-muted-foreground: #94A3B8; /* Muted text */
+    
+    /* Primary Colors - Metallic Gold */
+    --color-primary: #D4AF37; /* Metallic gold */
+    --color-primary-foreground: #0A192F; /* Navy text on gold */
+    
+    /* Secondary Colors */
+    --color-secondary: #1E3A5F; /* Medium navy */
+    --color-secondary-foreground: #F1F5F9; /* Light text */
+    
+    /* Accent Colors - Premium Gold Variant */
+    --color-accent: #F4E09A; /* Light gold for accents */
+    --color-accent-foreground: #0A192F; /* Navy text on light gold */
+    
+    /* Success Colors - Professional Green */
+    --color-success: #10B981; /* Emerald green */
+    --color-success-foreground: #FFFFFF; /* White text */
+    
+    /* Warning Colors - Premium Amber */
+    --color-warning: #F59E0B; /* Amber warning */
+    --color-warning-foreground: #0A192F; /* Navy text */
+    
+    /* Error/Destructive Colors - Professional Red */
+    --color-error: #EF4444; /* Red error */
+    --color-error-foreground: #FFFFFF; /* White text */
+    --color-destructive: #EF4444; /* Red destructive */
+    --color-destructive-foreground: #FFFFFF; /* White text */
+  }
+
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer utilities {
+  .font-heading {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .font-body {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  
+  .font-caption {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+  
+  /* Premium styling utilities */
+  .gradient-gold {
+    background: linear-gradient(135deg, #D4AF37, #F4E09A);
+  }
+  
+  .border-gradient-gold {
+    border-image: linear-gradient(135deg, #D4AF37, #F4E09A) 1;
+  }
+  
+  .text-gradient-gold {
+    background: linear-gradient(135deg, #D4AF37, #F4E09A);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .shadow-premium {
+    box-shadow: 0 10px 25px -3px rgba(212, 175, 55, 0.1), 0 4px 6px -2px rgba(212, 175, 55, 0.05);
+  }
+  
+  .shadow-premium-lg {
+    box-shadow: 0 20px 50px -12px rgba(212, 175, 55, 0.15), 0 8px 16px -4px rgba(212, 175, 55, 0.1);
+  }
+}

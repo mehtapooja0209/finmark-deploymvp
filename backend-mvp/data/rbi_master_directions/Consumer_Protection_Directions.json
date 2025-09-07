@@ -1,0 +1,181 @@
+{
+  "category": "Consumer Protection and Financial Inclusion",
+  "last_updated": "2025-08-28",
+  "source": "https://rbi.org.in/scripts/bs_viewmasterdirections.aspx",
+  "master_directions": [
+    {
+      "date": "2025-03-24",
+      "title": "Master Directions - Reserve Bank of India (Priority Sector Lending – Targets and Classification) Directions, 2025",
+      "size": "770 kb",
+      "key_provisions": [
+        "Priority sector lending targets for different bank categories",
+        "Classification criteria for priority sector advances",
+        "Sub-targets for agriculture, MSME, and other categories",
+        "Monitoring and reporting mechanisms",
+        "Penalty framework for non-compliance"
+      ],
+      "compliance_requirements": [
+        "40% of ANBC for domestic commercial banks",
+        "18% for agriculture sector",
+        "7.5% for micro enterprises",
+        "10% for economically weaker sections",
+        "Quarterly reporting of PSL achievements"
+      ]
+    },
+    {
+      "date": "2023-12-29",
+      "title": "Master Direction - Reserve Bank of India (Internal Ombudsman for Regulated Entities) Directions, 2023",
+      "size": "378 kb",
+      "key_provisions": [
+        "Appointment of Internal Ombudsman",
+        "Qualifications and tenure requirements",
+        "Functions and responsibilities",
+        "Complaint handling procedures",
+        "Reporting and disclosure obligations"
+      ],
+      "compliance_requirements": [
+        "Appointment within specified timelines",
+        "Independent functioning and reporting",
+        "Regular training and capacity building",
+        "Quarterly reports to Board and RBI",
+        "Customer awareness and accessibility"
+      ]
+    },
+    {
+      "date": "2017-07-24",
+      "title": "Master Direction - Lending to Micro, Small & Medium Enterprises (MSME) Sector",
+      "size": "418 kb",
+      "updated": "2025-07-23",
+      "key_provisions": [
+        "MSME definition and classification",
+        "Lending targets and sub-targets",
+        "Interest rate guidelines",
+        "Collateral and guarantee requirements",
+        "Credit guarantee scheme provisions"
+      ]
+    },
+    {
+      "date": "2018-10-17",
+      "title": "Master Direction – Reserve Bank of India (Relief Measures by Banks in Areas affected by Natural Calamities) Directions 2018",
+      "size": "279 kb (RRBs), 212 kb (SCBs)",
+      "key_provisions": [
+        "Disaster relief lending guidelines",
+        "Moratorium and restructuring provisions",
+        "Interest rate concessions",
+        "Documentation relaxations",
+        "Monitoring and reporting requirements"
+      ]
+    }
+  ],
+  "consumer_protection_framework": {
+    "grievance_redressal": {
+      "internal_ombudsman": {
+        "appointment_criteria": [
+          "Retired bank officer of General Manager level or equivalent",
+          "10 years experience in banking/finance",
+          "Should not be related to bank officials",
+          "Age limit of 70 years",
+          "3-year tenure with possible extension"
+        ],
+        "functions": [
+          "Examine complaints not resolved by bank",
+          "Award compensation up to ₹20 lakh",
+          "Review bank's customer service policies",
+          "Recommend systemic improvements",
+          "Maintain statistical data on complaints"
+        ]
+      },
+      "complaint_handling": {
+        "timelines": [
+          "Acknowledgment within 7 days",
+          "Resolution within 30 days",
+          "Escalation to ombudsman if unresolved",
+          "Final response within 90 days",
+          "Appeals to RBI ombudsman thereafter"
+        ],
+        "channels": [
+          "Online complaint portals",
+          "Dedicated helplines",
+          "Physical complaint boxes",
+          "Email and postal complaints",
+          "Mobile applications"
+        ]
+      }
+    },
+    "customer_protection_measures": {
+      "fair_practices": [
+        "Transparent pricing and fee disclosure",
+        "Clear terms and conditions",
+        "Non-discriminatory lending practices",
+        "Respectful debt collection procedures",
+        "Protection of customer data and privacy"
+      ],
+      "financial_literacy": [
+        "Customer education programs",
+        "Product-specific information materials",
+        "Digital literacy initiatives",
+        "Risk awareness campaigns",
+        "Regular customer outreach programs"
+      ]
+    }
+  },
+  "priority_sector_lending": {
+    "targets_classification": {
+      "overall_targets": {
+        "scheduled_commercial_banks": "40% of ANBC or credit equivalent of off-balance sheet exposure",
+        "foreign_banks": "40% of ANBC with sub-targets",
+        "regional_rural_banks": "75% of net bank credit",
+        "small_finance_banks": "75% of net bank credit"
+      },
+      "sub_targets": {
+        "agriculture": "18% of ANBC",
+        "micro_enterprises": "7.5% of ANBC",
+        "weaker_sections": "10% of ANBC",
+        "renewable_energy": "Separate targets as specified",
+        "others": "Remaining to achieve overall 40%"
+      }
+    },
+    "eligible_categories": [
+      "Agriculture and allied activities",
+      "Micro, Small and Medium Enterprises",
+      "Export credit",
+      "Education",
+      "Housing",
+      "Social infrastructure",
+      "Renewable energy",
+      "Others as specified by RBI"
+    ],
+    "monitoring_compliance": {
+      "reporting_requirements": [
+        "Monthly reporting of PSL data",
+        "Quarterly compliance certificates",
+        "Annual action plans for PSL",
+        "Branch-wise PSL achievement reports",
+        "Special category monitoring reports"
+      ],
+      "penalty_framework": [
+        "Shortfall penalty at Bank Rate + 2%",
+        "Contribution to RIDF/other funds",
+        "Restrictions on branch expansion",
+        "Enhanced monitoring and supervision",
+        "Public disclosure of non-compliance"
+      ]
+    }
+  },
+  "msme_lending": {
+    "regulatory_framework": {
+      "definition_criteria": {
+        "micro_enterprises": "Investment up to ₹1 crore and turnover up to ₹5 crore",
+        "small_enterprises": "Investment up to ₹10 crore and turnover up to ₹50 crore",
+        "medium_enterprises": "Investment up to ₹50 crore and turnover up to ₹250 crore"
+      },
+      "lending_guidelines": [
+        "Collateral-free loans up to ₹10 lakh",
+        "No processing charges for loans up to ₹25,000",
+        "Interest rate guidelines and transparency",
+        "Quick disposal of loan applications",
+        "Credit guarantee coverage through CGTMSE"
+      ]
+    }
+  }
+}

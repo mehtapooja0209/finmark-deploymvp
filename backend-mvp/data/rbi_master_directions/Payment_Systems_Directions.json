@@ -1,0 +1,109 @@
+{
+  "category": "Payment and Settlement Systems",
+  "last_updated": "2025-08-28",
+  "source": "https://rbi.org.in/scripts/bs_viewmasterdirections.aspx",
+  "master_directions": [
+    {
+      "date": "2021-02-18",
+      "title": "Master Direction on Digital Payment Security Controls",
+      "size": "261 kb",
+      "key_provisions": [
+        "Security standards for digital payment systems",
+        "Multi-factor authentication requirements",
+        "Transaction monitoring and fraud detection",
+        "Incident response and business continuity",
+        "Customer protection measures"
+      ],
+      "compliance_requirements": [
+        "Implementation of strong authentication mechanisms",
+        "Real-time fraud monitoring systems",
+        "Secure communication protocols",
+        "Regular security audits and assessments",
+        "Customer grievance redressal mechanisms"
+      ],
+      "violation_keywords": [
+        "weak authentication",
+        "insecure transactions",
+        "inadequate fraud monitoring",
+        "poor incident response",
+        "unsecured customer data"
+      ]
+    }
+  ],
+  "payment_aggregator_guidelines": {
+    "authorization_requirements": {
+      "minimum_capital": "₹15 crore for new PA entities",
+      "net_worth": "Minimum ₹15 crore to be maintained",
+      "experience": "3 years minimum experience in payments",
+      "compliance_officer": "Dedicated compliance officer appointment"
+    },
+    "operational_guidelines": {
+      "merchant_onboarding": [
+        "Know Your Customer (KYC) procedures for merchants",
+        "Risk assessment and categorization",
+        "Agreement execution and documentation",
+        "Regular monitoring and review"
+      ],
+      "transaction_processing": [
+        "Real-time transaction monitoring",
+        "Fraud detection and prevention systems",
+        "Settlement and reconciliation procedures",
+        "Dispute resolution mechanisms"
+      ],
+      "customer_protection": [
+        "Transparent fee structure disclosure",
+        "Timely settlement of transactions",
+        "Robust grievance redressal system",
+        "Data protection and privacy measures"
+      ]
+    },
+    "prohibited_activities": [
+      "Processing transactions without proper merchant agreements",
+      "Facilitating prohibited or restricted business activities",
+      "Non-compliance with AML/CFT requirements",
+      "Inadequate risk management practices",
+      "Poor customer service and grievance handling"
+    ]
+  },
+  "digital_payment_security": {
+    "authentication_requirements": {
+      "multi_factor_authentication": "Mandatory for high-value transactions",
+      "biometric_authentication": "Preferred for mobile payments",
+      "device_binding": "Required for recurring transactions",
+      "risk_based_authentication": "Dynamic authentication based on risk scoring"
+    },
+    "fraud_prevention": {
+      "real_time_monitoring": "Continuous transaction monitoring",
+      "velocity_checks": "Transaction frequency and amount limits",
+      "geolocation_validation": "Location-based transaction validation",
+      "machine_learning": "AI-based fraud detection systems"
+    },
+    "incident_management": {
+      "detection": "Automated incident detection systems",
+      "response": "Immediate response protocols",
+      "containment": "Incident containment procedures",
+      "recovery": "Business continuity and recovery plans",
+      "reporting": "Regulatory reporting within specified timelines"
+    }
+  },
+  "compliance_monitoring": {
+    "regulatory_returns": [
+      "Monthly operational statistics",
+      "Quarterly financial statements",
+      "Annual compliance certificates",
+      "Incident reports as required"
+    ],
+    "audit_requirements": [
+      "Annual external audit by RBI-approved auditors",
+      "Information system audit every two years",
+      "Compliance audit by independent agencies",
+      "Internal audit function with quarterly reviews"
+    ],
+    "penalties_violations": [
+      "Monetary penalties up to ₹1 crore per violation",
+      "Suspension of payment aggregator authorization",
+      "Restrictions on new merchant onboarding",
+      "Enhanced supervision and monitoring"
+    ]
+  }
+}
