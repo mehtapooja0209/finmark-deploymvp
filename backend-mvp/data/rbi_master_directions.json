@@ -1,0 +1,224 @@
+{
+  "rbi_master_directions_index": {
+    "metadata": {
+      "source": "https://rbi.org.in/scripts/bs_viewmasterdirections.aspx",
+      "scraped_date": "2025-08-28",
+      "total_documents": 85,
+      "categories": 10,
+      "latest_update": "2025-08-14"
+    },
+    "categories": {
+      "commercial_banking": {
+        "total_documents": 25,
+        "latest_updates": [
+          {
+            "date": "2025-08-06",
+            "title": "Reserve Bank of India (Non-Fund Based Credit Facilities) Directions, 2025",
+            "size": "424 kb"
+          },
+          {
+            "date": "2025-08-06", 
+            "title": "Reserve Bank of India (Co-Lending Arrangements) Directions, 2025",
+            "size": "260 kb"
+          }
+        ]
+      },
+      "non_banking": {
+        "total_documents": 12,
+        "key_documents": [
+          {
+            "date": "2022-03-14",
+            "title": "Master Direction – Reserve Bank of India (Regulatory Framework for Microfinance Loans) Directions, 2022",
+            "updated": "2025-07-17"
+          }
+        ]
+      },
+      "payment_settlement_systems": {
+        "total_documents": 8,
+        "key_documents": [
+          {
+            "date": "2021-02-18",
+            "title": "Master Direction on Digital Payment Security Controls"
+          }
+        ]
+      },
+      "financial_markets": {
+        "total_documents": 15,
+        "latest_updates": [
+          {
+            "date": "2025-06-16",
+            "title": "Master Direction – Reserve Bank of India (Electronic Trading Platforms) Directions, 2025"
+          }
+        ]
+      },
+      "consumer_protection": {
+        "total_documents": 6,
+        "key_documents": [
+          {
+            "date": "2023-12-29",
+            "title": "Master Direction - Reserve Bank of India (Internal Ombudsman for Regulated Entities) Directions, 2023"
+          }
+        ]
+      }
+    },
+    "complete_document_list": [
+      {
+        "category": "Commercial Banking",
+        "date": "2025-08-06",
+        "title": "Reserve Bank of India (Non-Fund Based Credit Facilities) Directions, 2025",
+        "size": "424 kb",
+        "effective_date": "2026-04-01"
+      },
+      {
+        "category": "Commercial Banking", 
+        "date": "2025-08-06",
+        "title": "Reserve Bank of India (Co-Lending Arrangements) Directions, 2025",
+        "size": "260 kb"
+      },
+      {
+        "category": "Commercial Banking",
+        "date": "2025-07-29",
+        "title": "Reserve Bank of India (Investment in AIF) Directions, 2025",
+        "size": "156 kb"
+      },
+      {
+        "category": "Commercial Banking",
+        "date": "2025-04-01",
+        "title": "Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2025",
+        "size": "202 kb"
+      },
+      {
+        "category": "Commercial Banking",
+        "date": "2025-03-25",
+        "title": "Master Direction – Reserve Bank of India (Prudential Norms on Capital Adequacy for Regional Rural Banks) Directions, 2025",
+        "size": "521 kb"
+      },
+      {
+        "category": "Commercial Banking",
+        "date": "2025-01-06",
+        "title": "Master Direction – Reserve Bank of India (Credit Information Reporting) Directions, 2025",
+        "size": "1203 kb"
+      },
+      {
+        "category": "Commercial Banking",
+        "date": "2024-07-30",
+        "title": "Master Direction on Treatment of Wilful Defaulters and Large Defaulters",
+        "size": "1035 kb"
+      },
+      {
+        "category": "Commercial Banking",
+        "date": "2024-07-15",
+        "title": "Master Directions on Fraud Risk Management in Commercial Banks (including Regional Rural Banks) and All India Financial Institutions",
+        "size": "445 kb"
+      },
+      {
+        "category": "Commercial Banking",
+        "date": "2024-02-27",
+        "title": "Master Direction – Reserve Bank of India (Filing of Supervisory Returns) Directions - 2024",
+        "size": "2066 kb"
+      },
+      {
+        "category": "Commercial Banking",
+        "date": "2023-11-07",
+        "title": "Master Direction on Information Technology Governance, Risk, Controls and Assurance Practices",
+        "size": "425 kb"
+      },
+      {
+        "category": "Commercial Banking",
+        "date": "2023-09-12",
+        "title": "Master Direction - Classification, Valuation and Operation of Investment Portfolio of Commercial Banks (Directions), 2023",
+        "size": "1050 kb",
+        "updated": "2025-04-01"
+      },
+      {
+        "category": "Financial Markets",
+        "date": "2025-06-16",
+        "title": "Master Direction – Reserve Bank of India (Electronic Trading Platforms) Directions, 2025",
+        "size": "422 kb"
+      },
+      {
+        "category": "Financial Markets",
+        "date": "2025-02-07", 
+        "title": "Master Direction - Reserve Bank of India (Access Criteria for NDS-OM) Directions, 2025",
+        "size": "320 kb"
+      },
+      {
+        "category": "Financial Markets",
+        "date": "2025-01-07",
+        "title": "Master Direction - Reserve Bank of India (Non-resident Investment in Debt Instruments) Directions, 2025",
+        "size": "607 kb",
+        "updated": "2025-08-12"
+      },
+      {
+        "category": "Consumer Protection",
+        "date": "2025-03-24",
+        "title": "Master Directions - Reserve Bank of India (Priority Sector Lending – Targets and Classification) Directions, 2025",
+        "size": "770 kb"
+      },
+      {
+        "category": "Consumer Protection",
+        "date": "2023-12-29",
+        "title": "Master Direction - Reserve Bank of India (Internal Ombudsman for Regulated Entities) Directions, 2023",
+        "size": "378 kb"
+      },
+      {
+        "category": "Non-Banking",
+        "date": "2022-03-14",
+        "title": "Master Direction – Reserve Bank of India (Regulatory Framework for Microfinance Loans) Directions, 2022",
+        "size": "503 kb",
+        "updated": "2025-07-17"
+      },
+      {
+        "category": "Payment Systems",
+        "date": "2021-02-18",
+        "title": "Master Direction on Digital Payment Security Controls",
+        "size": "261 kb"
+      },
+      {
+        "category": "Commercial Banking",
+        "date": "2019-05-29",
+        "title": "Master Direction - Know Your Customer (KYC) Direction, 2016",
+        "size": "885 kb",
+        "updated": "2025-08-14"
+      },
+      {
+        "category": "Co-operative Banking",
+        "date": "2024-07-15",
+        "title": "Master Directions on Fraud Risk Management in Urban Cooperative Banks (UCBs) / State Cooperative Banks (StCBs) / Central Cooperative Banks (CCBs)",
+        "size": "397 kb"
+      }
+    ],
+    "critical_updates_2025": [
+      {
+        "date": "2025-08-14",
+        "title": "Master Direction - Know Your Customer (KYC) Direction, 2016 (Updated)",
+        "impact": "Updated KYC requirements for all regulated entities"
+      },
+      {
+        "date": "2025-08-12", 
+        "title": "Master Direction - Non-resident Investment in Debt Instruments (Updated)",
+        "impact": "Revised investment limits and procedures"
+      },
+      {
+        "date": "2025-08-06",
+        "title": "Non-Fund Based Credit Facilities Directions",
+        "impact": "New framework for guarantees and letters of credit"
+      },
+      {
+        "date": "2025-07-17",
+        "title": "Microfinance Loans Directions (Updated)",
+        "impact": "Enhanced borrower protection and fair practices"
+      }
+    ],
+    "digital_lending_framework": {
+      "status": "Under review - awaiting 2025 Digital Lending Master Directions",
+      "current_guidelines": "Digital Lending Guidelines September 2022",
+      "expected_updates": [
+        "Enhanced data protection requirements",
+        "Stricter lending service provider regulations", 
+        "Updated customer protection measures",
+        "Revised penalty framework"
+      ]
+    }
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "metadata": {
+    "source": "https://rbi.org.in/scripts/bs_viewmasterdirections.aspx",
+    "created_date": "2025-08-29",
+    "version": "1.0.0",
+    "purpose": "FinTech Marketing Compliance Guidelines",
+    "scope": "Marketing materials for Digital Lending, Payment Systems, NBFCs, Payment Aggregators",
+    "total_marketing_rules": 25,
+    "citation_policy": "All violations must include RBI document citation and section reference"
+  },
+  "marketing_compliance_rules": {
+    "digital_lending_marketing": [
+      {
+        "rule_id": "DLM_001",
+        "category": "mandatory_marketing_disclosure",
+        "title": "Digital Lending Platform Marketing Disclosure Requirements",
+        "description": "All digital lending marketing materials must display comprehensive fee structure and terms prominently",
+        "marketing_context": "Applies to all advertisements, brochures, website content, app descriptions, social media posts for digital lending platforms",
+        "content": "Digital lending platforms shall ensure that all fees, charges, interest rates, and other terms are disclosed prominently and transparently in all marketing communications before customer engagement.",
+        "violation_keywords": [
+          "guaranteed approval",
+          "instant loan approval", 
+          "no documentation required",
+          "risk-free lending",
+          "assured credit",
+          "100% approval guarantee",
+          "immediate disbursement",
+          "zero processing fee",
+          "lowest interest rates",
+          "best rates guaranteed"
+        ],
+        "required_marketing_elements": [
+          "Annual Percentage Rate (APR) prominently displayed",
+          "Processing fee amount or range",
+          "Penalty charges for late payment",
+          "Prepayment charges if applicable",
+          "Maximum loan tenure",
+          "Link to detailed terms and conditions",
+          "Grievance redressal contact information",
+          "RBI complaint portal mention"
+        ],
+        "prohibited_marketing_claims": [
+          "Claims of guaranteed loan approval",
+          "Promises of instant approval without verification",
+          "Statements suggesting no documentation needed",
+          "Risk-free or zero-risk lending claims",
+          "Comparison claims without proper disclosure"
+        ],
+        "severity": "critical",
+        "scoring_weight": 25,
+        "effective_date": "2022-09-02",
+        "penalties": [
+          "Monetary penalty up to ₹1 crore",
+          "Suspension of digital lending license",
+          "Prohibition from new customer acquisition",
+          "Mandatory corrective advertising"
+        ],
+        "citation": {
+          "document": "RBI Circular No. DOR.STR.REC.51/21.04.048/2021-22",
+          "title": "Digital Lending Guidelines",
+          "date": "September 2, 2022",
+          "section": "Customer Protection and Disclosures",
+          "url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/12200.pdf"
+        }
+      },
+      {
+        "rule_id": "DLM_002", 
+        "category": "interest_rate_marketing",
+        "title": "Interest Rate Display in Digital Lending Marketing",
+        "description": "All interest rate advertisements must show complete pricing information",
+        "marketing_context": "Interest rate displays in ads, websites, brochures, promotional materials",
+        "content": "Marketing materials displaying interest rates must show all-inclusive pricing including processing fees, and other charges as APR.",
+        "violation_keywords": [
+          "starting from X%",
+          "as low as X%", 
+          "X% onwards",
+          "interest from X%",
+          "minimum X% interest",
+          "flat rate",
+          "simple interest"
+        ],
+        "required_marketing_elements": [
+          "All-inclusive APR prominently displayed",
+          "Representative example with actual numbers",
+          "All fees and charges included in calculation",
+          "Disclaimer about rate variations"
+        ],
+        "prohibited_marketing_claims": [
+          "Starting rates without showing maximum rates",
+          "Flat rates without APR conversion", 
+          "Teaser rates without full disclosure",
+          "Comparisons without like-to-like basis"
+        ],
+        "severity": "high",
+        "scoring_weight": 20,
+        "citation": {
+          "document": "RBI Circular on Interest Rate Display",
+          "title": "Guidelines on Fair Practices Code for Lenders",
+          "section": "Interest Rate and Charges Display",
+          "date": "Updated 2025"
+        }
+      }
+    ],
+    "payment_systems_marketing": [
+      {
+        "rule_id": "PSM_001",
+        "category": "payment_security_marketing",
+        "title": "Payment Security Claims in Marketing",
+        "description": "Marketing materials must not make absolute security claims about digital payments",
+        "marketing_context": "Payment app marketing, wallet advertisements, UPI service promotions",
+        "content": "Payment service marketing must not make absolute security guarantees and must include appropriate disclaimers about digital payment risks.",
+        "violation_keywords": [
+          "100% secure payments",
+          "completely safe transactions",
+          "zero fraud guarantee",
+          "foolproof security",
+          "bank-level security",
+          "military-grade encryption",
+          "unhackable system",
+          "absolute protection"
+        ],
+        "required_marketing_elements": [
+          "Security measures description (general)",
+          "User responsibility disclaimers",
+          "Contact information for disputes",
+          "Link to security policy",
+          "Fraud reporting mechanism mention"
+        ],
+        "prohibited_marketing_claims": [
+          "Absolute security guarantees",
+          "Zero-risk payment claims",
+          "Comparisons claiming superior security without proof",
+          "Claims of foolproof fraud protection"
+        ],
+        "severity": "high", 
+        "scoring_weight": 18,
+        "citation": {
+          "document": "Master Direction on Digital Payment Security Controls",
+          "title": "RBI Digital Payment Security Guidelines",
+          "date": "February 18, 2021",
+          "section": "Customer Communication and Awareness",
+          "size": "261 kb",
+          "url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/PDFS/08D6AF5C6FB04DEABB6F8E57A61B8450.PDF"
+        }
+      },
+      {
+        "rule_id": "PSM_002",
+        "category": "transaction_limit_marketing",
+        "title": "Transaction Limit Disclosure in Marketing",
+        "description": "Payment service marketing must clearly disclose transaction limits and restrictions",
+        "marketing_context": "UPI apps, mobile wallets, payment gateway marketing materials",
+        "content": "All marketing communications for payment services must clearly mention transaction limits, daily limits, and any restrictions.",
+        "violation_keywords": [
+          "unlimited transactions",
+          "no transaction limits",
+          "send any amount",
+          "unrestricted payments",
+          "no daily limits"
+        ],
+        "required_marketing_elements": [
+          "Daily transaction limits",
+          "Per-transaction limits", 
+          "Monthly limits if applicable",
+          "KYC-based limit variations",
+          "Merchant vs P2P limit differences"
+        ],
+        "severity": "medium",
+        "scoring_weight": 12,
+        "citation": {
+          "document": "RBI Payment System Directions",
+          "section": "Transaction Limits and Customer Communication"
+        }
+      }
+    ],
+    "payment_aggregator_marketing": [
+      {
+        "rule_id": "PAM_001",
+        "category": "aggregator_authorization_marketing",
+        "title": "Payment Aggregator Authorization Display",
+        "description": "Payment aggregators must display RBI authorization status in marketing",
+        "marketing_context": "Payment gateway marketing, merchant acquisition materials, B2B payment solutions",
+        "content": "Payment aggregators must clearly mention their RBI authorization status in all marketing materials and cannot imply unauthorized services.",
+        "violation_keywords": [
+          "RBI approved",
+          "RBI certified", 
+          "government approved",
+          "official payment partner",
+          "authorized by government",
+          "RBI recommended"
+        ],
+        "required_marketing_elements": [
+          "Exact RBI authorization status",
+          "Authorization number if applicable",
+          "Date of authorization",
+          "Scope of authorized activities",
+          "Link to RBI authorized entity list"
+        ],
+        "prohibited_marketing_claims": [
+          "False claims of RBI approval",
+          "Misleading government endorsement claims",
+          "Overstating authorization scope",
+          "Claiming exclusive RBI partnership"
+        ],
+        "severity": "critical",
+        "scoring_weight": 25,
+        "citation": {
+          "document": "RBI Payment Aggregator Guidelines",
+          "title": "Guidelines on Regulation of Payment Aggregators and Payment Gateways",
+          "section": "Authorization Requirements and Marketing",
+          "effective_date": "2021",
+          "url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/NOTI1041.pdf"
+        }
+      }
+    ],
+    "nbfc_marketing": [
+      {
+        "rule_id": "NBFCM_001",
+        "category": "microfinance_marketing",
+        "title": "Microfinance Marketing and Customer Protection",
+        "description": "NBFC microfinance marketing must emphasize responsible lending and customer protection",
+        "marketing_context": "Microfinance advertisements, rural marketing, customer acquisition materials",
+        "content": "NBFC-MFI marketing materials must emphasize responsible lending practices and cannot use coercive or misleading language.",
+        "violation_keywords": [
+          "easy money",
+          "quick cash",
+          "no questions asked",
+          "immediate cash",
+          "guaranteed loans",
+          "fast approval",
+          "emergency money",
+          "instant cash"
+        ],
+        "required_marketing_elements": [
+          "APR disclosure prominently",
+          "Repayment capacity emphasis",
+          "Over-borrowing warnings", 
+          "Grievance redressal contact",
+          "Cooling-off period mention",
+          "Fair practice code reference"
+        ],
+        "prohibited_marketing_claims": [
+          "Easy money without assessment",
+          "Instant loan approvals",
+          "Guaranteed approval regardless of profile",
+          "Emotional manipulation tactics"
+        ],
+        "severity": "critical",
+        "scoring_weight": 22,
+        "citation": {
+          "document": "Master Direction – Reserve Bank of India (Regulatory Framework for Microfinance Loans) Directions, 2022",
+          "date": "March 14, 2022", 
+          "updated": "July 17, 2025",
+          "section": "Customer Protection and Fair Practices",
+          "size": "503 kb"
+        }
+      },
+      {
+        "rule_id": "NBFCM_002",
+        "category": "nbfc_investment_marketing", 
+        "title": "NBFC Investment Product Marketing",
+        "description": "Investment-focused NBFC marketing must include risk disclosures",
+        "marketing_context": "Investment product advertisements, wealth management marketing, portfolio services",
+        "content": "NBFCs offering investment products must include comprehensive risk disclosures and cannot guarantee returns in marketing.",
+        "violation_keywords": [
+          "guaranteed returns",
+          "risk-free investment",
+          "assured profits",
+          "100% safe investment",
+          "no risk",
+          "capital protection guaranteed",
+          "fixed returns",
+          "zero loss guarantee"
+        ],
+        "required_marketing_elements": [
+          "\"Investments are subject to market risks\" disclaimer",
+          "Past performance disclaimer",
+          "Risk category disclosure",
+          "Exit load information",
+          "Regulatory compliance statement",
+          "Grievance officer contact"
+        ],
+        "prohibited_marketing_claims": [
+          "Guaranteed return promises",
+          "Risk-free investment claims", 
+          "Capital protection guarantees",
+          "Comparison with bank deposits without risk disclosure"
+        ],
+        "severity": "critical",
+        "scoring_weight": 20,
+        "citation": {
+          "document": "NBFC Investment Guidelines",
+          "section": "Investment Product Marketing and Disclosures"
+        }
+      }
+    ],
+    "fair_practices_marketing": [
+      {
+        "rule_id": "FPM_001",
+        "category": "fair_advertising",
+        "title": "Fair Practices in Financial Services Marketing",
+        "description": "All financial services marketing must follow fair practice principles",
+        "marketing_context": "All FinTech marketing materials across products and services",
+        "content": "Financial services marketing must be fair, transparent, and not misleading. Cannot exploit customer vulnerabilities or use unethical tactics.",
+        "violation_keywords": [
+          "limited time offer",
+          "last chance",
+          "only today",
+          "urgent action required",
+          "exclusive offer",
+          "once in lifetime",
+          "don't miss out",
+          "act now or lose forever"
+        ],
+        "required_marketing_elements": [
+          "Clear and prominent disclosures",
+          "Terms and conditions accessibility",
+          "Contact information for queries",
+          "Grievance redressal mechanism",
+          "Regulatory compliance statement",
+          "Fair treatment assurance"
+        ],
+        "prohibited_marketing_claims": [
+          "High-pressure sales tactics",
+          "Misleading urgency creation",
+          "Exploitation of customer desperation",
+          "False scarcity claims",
+          "Discriminatory language or imagery"
+        ],
+        "severity": "high",
+        "scoring_weight": 18,
+        "citation": {
+          "document": "RBI Fair Practices Code",
+          "title": "Fair Practices Code for Lenders",
+          "section": "Marketing and Advertising Standards"
+        }
+      }
+    ],
+    "customer_protection_marketing": [
+      {
+        "rule_id": "CPM_001",
+        "category": "grievance_disclosure",
+        "title": "Grievance Redressal Disclosure in Marketing",
+        "description": "All FinTech marketing must include grievance redressal information",
+        "marketing_context": "Mandatory disclosure in all marketing materials",
+        "content": "All marketing materials must include accessible grievance redressal contact information and mention RBI complaint portal.",
+        "violation_keywords": [
+          "no complaints",
+          "100% satisfaction",
+          "zero grievances",
+          "perfect service record",
+          "complaint-free service"
+        ],
+        "required_marketing_elements": [
+          "Customer care contact number",
+          "Email for complaints",
+          "Grievance officer designation",
+          "RBI ombudsman portal mention",
+          "Response time commitment",
+          "Escalation process outline"
+        ],
+        "severity": "medium",
+        "scoring_weight": 15,
+        "citation": {
+          "document": "RBI Customer Protection Guidelines",
+          "section": "Grievance Redressal and Customer Communication"
+        }
+      },
+      {
+        "rule_id": "CPM_002",
+        "category": "data_privacy_marketing",
+        "title": "Data Privacy Disclosures in Marketing",
+        "description": "Marketing materials mentioning data usage must include privacy disclosures",
+        "marketing_context": "Marketing materials that reference customer data usage, AI/ML features, personalization",
+        "content": "Any marketing content that mentions data collection, AI analysis, or personalized services must include data privacy disclosures.",
+        "violation_keywords": [
+          "we use your data", 
+          "AI-powered insights",
+          "personalized recommendations",
+          "data-driven solutions",
+          "smart analysis",
+          "machine learning",
+          "your financial profile"
+        ],
+        "required_marketing_elements": [
+          "Link to privacy policy",
+          "Data usage consent mention",
+          "Data security assurance",
+          "Customer data rights information",
+          "Third-party sharing disclosure",
+          "Data retention policy reference"
+        ],
+        "severity": "high",
+        "scoring_weight": 16,
+        "citation": {
+          "document": "RBI Data Protection Guidelines",
+          "section": "Customer Data Privacy and Marketing"
+        }
+      }
+    ],
+    "comparative_marketing": [
+      {
+        "rule_id": "CM_001",
+        "category": "competitor_comparison",
+        "title": "Comparative Marketing Claims Standards",
+        "description": "Comparative marketing claims must be factual, verifiable, and fair",
+        "marketing_context": "Marketing materials comparing services with competitors",
+        "content": "Comparative marketing claims must be substantiated with verifiable data and cannot be misleading or unfair to competitors.",
+        "violation_keywords": [
+          "better than all competitors",
+          "only company that offers",
+          "unique in the market",
+          "no one else provides",
+          "best in industry",
+          "market leader",
+          "number one choice"
+        ],
+        "required_marketing_elements": [
+          "Basis of comparison disclosure",
+          "Data source references",
+          "Comparison criteria explanation",
+          "Time period of data",
+          "Methodology transparency",
+          "Fair comparison disclaimer"
+        ],
+        "prohibited_marketing_claims": [
+          "Unsubstantiated superiority claims",
+          "Misleading statistical presentations",
+          "Unfair comparison parameters",
+          "Cherry-picked data usage",
+          "Disparaging competitor content"
+        ],
+        "severity": "medium",
+        "scoring_weight": 12,
+        "citation": {
+          "document": "RBI Guidelines on Comparative Advertising",
+          "section": "Standards for Financial Services Comparison"
+        }
+      }
+    ]
+  },
+  "marketing_violation_patterns": {
+    "high_risk_phrases": [
+      "guaranteed", "assured", "100%", "risk-free", "instant", "immediate",
+      "no documentation", "easy approval", "quick cash", "emergency money",
+      "bank-level security", "government approved", "RBI certified",
+      "unlimited", "unrestricted", "no limits", "best rates", "lowest interest"
+    ],
+    "medium_risk_phrases": [
+      "starting from", "as low as", "minimum", "up to", "exclusive offer",
+      "limited time", "act now", "don't miss", "only today", "last chance"
+    ],
+    "required_disclaimers": [
+      "Terms and conditions apply",
+      "Subject to eligibility criteria", 
+      "Interest rates subject to change",
+      "Processing fees applicable",
+      "Grievance redressal available",
+      "RBI complaint portal: cms.rbi.org.in"
+    ]
+  },
+  "scoring_methodology": {
+    "total_possible_score": 100,
+    "critical_violations": -25,
+    "high_violations": -15,
+    "medium_violations": -8,
+    "missing_required_elements": -5,
+    "prohibited_claims_usage": -20,
+    "inadequate_citations": -10,
+    "color_coding": {
+      "green": "80-100 (Compliant)",
+      "yellow": "50-79 (Needs Review)", 
+      "red": "0-49 (Non-Compliant)"
+    }
+  }
+}

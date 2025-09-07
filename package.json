@@ -5,22 +5,23 @@
   "private": true,
   "workspaces": [
     "frontend",
-    "backend",
+    "backend-mvp",
     "shared"
   ],
   "scripts": {
     "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
-    "dev:frontend": "cd frontend ; npm run dev",
-    "dev:backend": "cd backend ; npm run dev",
-    "build": "npm run build:shared ; npm run build:backend ; npm run build:frontend",
-    "build:frontend": "cd frontend ; npm run build",
-    "build:backend": "cd backend ; npm run build",
-    "build:shared": "cd shared ; npm run build",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend-mvp && npm run dev",
+    "build": "npm run build:shared && npm run build:backend && npm run build:frontend",
+    "build:frontend": "cd frontend && npm run build",
+    "build:backend": "cd backend-mvp && npm run build",
+    "build:shared": "cd shared && npm run build",
+    "vercel-build": "npm run build:shared && npm run build:frontend",
     "test": "npm run test:backend ; npm run test:frontend",
-    "test:backend": "cd backend ; npm test",
+    "test:backend": "cd backend-mvp ; npm test",
     "test:frontend": "cd frontend ; npm test",
     "lint": "npm run lint:backend ; npm run lint:frontend",
-    "lint:backend": "cd backend ; npm run lint",
+    "lint:backend": "cd backend-mvp ; npm run lint",
     "lint:frontend": "cd frontend ; npm run lint",
     "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
     "start:backend": "cd backend ; npm start",
@@ -30,8 +31,8 @@
     "db:studio": "cd backend ; npm run db:studio"
   },
   "devDependencies": {
-    "concurrently": "^8.2.2",
     "@types/node": "^20.11.17",
+    "concurrently": "^8.2.2",
     "typescript": "^5.3.3"
   },
   "engines": {
@@ -48,5 +49,9 @@
     "fintech"
   ],
   "author": "AI Compliance Scanner Team",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "form-data": "^4.0.4"
+  }
 }

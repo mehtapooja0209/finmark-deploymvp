@@ -1,0 +1,191 @@
+{
+  "rbi_documents_download_manifest": {
+    "source": "https://rbi.org.in/scripts/bs_viewmasterdirections.aspx",
+    "created_date": "2025-08-28",
+    "total_documents": 45,
+    "download_instructions": "Use the provided script to download documents systematically",
+    "storage_location": "data/rbi_documents/",
+    "documents": [
+      {
+        "category": "Commercial Banking",
+        "filename": "Non_Fund_Based_Credit_Facilities_2025.pdf",
+        "title": "Reserve Bank of India (Non-Fund Based Credit Facilities) Directions, 2025",
+        "date": "2025-08-06",
+        "size": "424 kb",
+        "url_pattern": "https://rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=XXX",
+        "priority": "critical",
+        "effective_date": "2026-04-01"
+      },
+      {
+        "category": "Commercial Banking", 
+        "filename": "Co_Lending_Arrangements_2025.pdf",
+        "title": "Reserve Bank of India (Co-Lending Arrangements) Directions, 2025",
+        "date": "2025-08-06",
+        "size": "260 kb",
+        "priority": "high"
+      },
+      {
+        "category": "Commercial Banking",
+        "filename": "Investment_in_AIF_2025.pdf", 
+        "title": "Reserve Bank of India (Investment in AIF) Directions, 2025",
+        "date": "2025-07-29",
+        "size": "156 kb",
+        "priority": "medium"
+      },
+      {
+        "category": "Commercial Banking",
+        "filename": "Interest_Rate_on_Deposits_2025.pdf",
+        "title": "Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2025",
+        "date": "2025-04-01", 
+        "size": "202 kb",
+        "priority": "high"
+      },
+      {
+        "category": "Commercial Banking",
+        "filename": "Capital_Adequacy_RRB_2025.pdf",
+        "title": "Master Direction – Reserve Bank of India (Prudential Norms on Capital Adequacy for Regional Rural Banks) Directions, 2025",
+        "date": "2025-03-25",
+        "size": "521 kb",
+        "priority": "critical"
+      },
+      {
+        "category": "Commercial Banking",
+        "filename": "Credit_Information_Reporting_2025.pdf",
+        "title": "Master Direction – Reserve Bank of India (Credit Information Reporting) Directions, 2025",
+        "date": "2025-01-06",
+        "size": "1203 kb",
+        "priority": "high"
+      },
+      {
+        "category": "Commercial Banking",
+        "filename": "Wilful_Defaulters_Treatment_2024.pdf", 
+        "title": "Master Direction on Treatment of Wilful Defaulters and Large Defaulters",
+        "date": "2024-07-30",
+        "size": "1035 kb",
+        "priority": "critical"
+      },
+      {
+        "category": "Commercial Banking",
+        "filename": "Fraud_Risk_Management_Commercial_Banks_2024.pdf",
+        "title": "Master Directions on Fraud Risk Management in Commercial Banks",
+        "date": "2024-07-15", 
+        "size": "445 kb",
+        "priority": "critical"
+      },
+      {
+        "category": "Commercial Banking",
+        "filename": "IT_Governance_Risk_Controls_2023.pdf",
+        "title": "Master Direction on Information Technology Governance, Risk, Controls and Assurance Practices",
+        "date": "2023-11-07",
+        "size": "425 kb",
+        "priority": "high"
+      },
+      {
+        "category": "Commercial Banking",
+        "filename": "Credit_Card_Debit_Card_2022.pdf",
+        "title": "Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022",
+        "date": "2022-04-21",
+        "size": "906 kb",
+        "updated": "2024-03-07",
+        "priority": "high"
+      },
+      {
+        "category": "Commercial Banking",
+        "filename": "KYC_Direction_2016_Updated_2025.pdf",
+        "title": "Master Direction - Know Your Customer (KYC) Direction, 2016",
+        "date": "2019-05-29",
+        "size": "885 kb", 
+        "updated": "2025-08-14",
+        "priority": "critical"
+      },
+      {
+        "category": "Financial Markets",
+        "filename": "Electronic_Trading_Platforms_2025.pdf",
+        "title": "Master Direction – Reserve Bank of India (Electronic Trading Platforms) Directions, 2025",
+        "date": "2025-06-16",
+        "size": "422 kb",
+        "priority": "high"
+      },
+      {
+        "category": "Financial Markets",
+        "filename": "NDS_OM_Access_Criteria_2025.pdf",
+        "title": "Master Direction - Reserve Bank of India (Access Criteria for NDS-OM) Directions, 2025", 
+        "date": "2025-02-07",
+        "size": "320 kb",
+        "priority": "medium"
+      },
+      {
+        "category": "Financial Markets",
+        "filename": "Non_Resident_Investment_Debt_2025.pdf",
+        "title": "Master Direction - Reserve Bank of India (Non-resident Investment in Debt Instruments) Directions, 2025",
+        "date": "2025-01-07",
+        "size": "607 kb",
+        "updated": "2025-08-12",
+        "priority": "high"
+      },
+      {
+        "category": "Financial Markets",
+        "filename": "OTC_Derivatives_Margining_2024.pdf",
+        "title": "Master Direction – Reserve Bank of India (Margining for Non-Centrally Cleared OTC Derivatives) Directions, 2024",
+        "date": "2024-05-08",
+        "size": "574 kb",
+        "priority": "medium"
+      },
+      {
+        "category": "Consumer Protection",
+        "filename": "Priority_Sector_Lending_2025.pdf",
+        "title": "Master Directions - Reserve Bank of India (Priority Sector Lending – Targets and Classification) Directions, 2025",
+        "date": "2025-03-24",
+        "size": "770 kb",
+        "priority": "high"
+      },
+      {
+        "category": "Consumer Protection",
+        "filename": "Internal_Ombudsman_2023.pdf",
+        "title": "Master Direction - Reserve Bank of India (Internal Ombudsman for Regulated Entities) Directions, 2023",
+        "date": "2023-12-29",
+        "size": "378 kb",
+        "priority": "high"
+      },
+      {
+        "category": "NBFC",
+        "filename": "Microfinance_Loans_Framework_2022.pdf",
+        "title": "Master Direction – Reserve Bank of India (Regulatory Framework for Microfinance Loans) Directions, 2022",
+        "date": "2022-03-14",
+        "size": "503 kb",
+        "updated": "2025-07-17",
+        "priority": "critical"
+      },
+      {
+        "category": "NBFC",
+        "filename": "Securitisation_Standard_Assets_2021.pdf",
+        "title": "Master Direction – Reserve Bank of India (Securitisation of Standard Assets) Directions, 2021",
+        "date": "2021-09-24", 
+        "size": "740 kb",
+        "priority": "medium"
+      },
+      {
+        "category": "Payment Systems", 
+        "filename": "Digital_Payment_Security_Controls_2021.pdf",
+        "title": "Master Direction on Digital Payment Security Controls",
+        "date": "2021-02-18",
+        "size": "261 kb",
+        "priority": "critical"
+      },
+      {
+        "category": "Cooperative Banking",
+        "filename": "Fraud_Risk_Management_UCB_2024.pdf",
+        "title": "Master Directions on Fraud Risk Management in Urban Cooperative Banks",
+        "date": "2024-07-15",
+        "size": "397 kb",
+        "priority": "medium"
+      }
+    ],
+    "download_categories": {
+      "critical": 6,
+      "high": 9, 
+      "medium": 6
+    },
+    "estimated_total_size": "12.5 MB"
+  }
+}
