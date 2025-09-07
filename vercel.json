@@ -1,19 +1,12 @@
 {
   "version": 2,
+  "buildCommand": "npm run vercel-build",
+  "outputDirectory": "frontend/dist",
+  "framework": "vite",
   "builds": [
     {
-      "src": "frontend/package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "frontend/dist"
-      }
-    },
-    {
-      "src": "backend-mvp/src/index.ts",
-      "use": "@vercel/node",
-      "config": {
-        "includeFiles": ["backend-mvp/data/**"]
-      }
+      "src": "backend-mvp/src/**/*.ts",
+      "use": "@vercel/node"
     }
   ],
   "routes": [
@@ -22,16 +15,11 @@
       "dest": "/backend-mvp/src/index.ts"
     },
     {
+      "handle": "filesystem"
+    },
+    {
       "src": "/(.*)",
-      "dest": "/frontend/$1"
+      "dest": "/frontend/index.html"
     }
-  ],
-  "env": {
-    "NODE_ENV": "production"
-  },
-  "functions": {
-    "backend-mvp/src/index.ts": {
-      "maxDuration": 30
-    }
-  }
+  ]
 }
